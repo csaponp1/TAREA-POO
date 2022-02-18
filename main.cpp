@@ -1,3 +1,8 @@
+//UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA
+//INGENIERIA EN SISTEMAS DE INFORMACION
+//NOMBRE: Christian Fernando Sapón Pérez
+//CARNET: 1290-21-16654
+//PROGRAMACION ORIENTADA A OBJETOS
 #include "Cliente.cpp"
 #include <iostream>
 #include<conio.h>
